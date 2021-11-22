@@ -25,4 +25,4 @@
 
 
 ### 公众号
-!()[logo.png]
+![logo.png](logo.png)
