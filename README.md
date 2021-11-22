@@ -26,4 +26,4 @@
 
 ### 公众号
 广海叮当猫
-![logo.png](qrcode.png)
+![logo.png](qrcode.jpg)
